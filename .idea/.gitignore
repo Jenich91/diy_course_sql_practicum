@@ -7,3 +7,5 @@
 modules.xml
 sql_diy_course.iml
 vcs.xml
+/dataSources.xml
+/sqldialects.xml
