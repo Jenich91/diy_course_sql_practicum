@@ -1,0 +1,26 @@
+person_id, first_name, last_name, role, adress_id, gender
+1,София,Гордеева,student,1,female
+2,Василий,Новиков,student,2,male
+3,Тимофей,Парфенов,student,3,male
+4,Даниил,Никитин,student,4,male
+5,Вячеслав,Новиков,student,5,male
+6,Платон,Суслов,student,6,male
+7,Варвара,Иванова,teacher,7,female
+8,Мария,Ершова,student,8,female
+9,Варвара,Соловьева,student,9,female
+10,Мария,Кондратьева,student,10,female
+11,Виктория,Панова,student,11,female
+12,Максим,Макаров,student,12,male
+13,Кристина,Зайцева,student,13,female
+14,Вера,Масленникова,student,14,female
+15,Елизавета,Фадеева,student,15,female
+16,Георгий,Самойлов,teacher,16,male
+17,Дмитрий,Карасев,student,17,male
+18,Полина,Федорова,student,18,female
+19,Мира,Соколова,student,19,female
+20,Анна,Орлова,student,20,female
+21,Диана,Лобанова,student,21,female
+22,Александр,Лобанов,student,22,male
+23,Макар,Морозов,teacher,23,male
+24,Лилия,Кузнецова,student,24,female
+25,Таисия,Андреева,student,25,female
