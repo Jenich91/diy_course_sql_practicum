@@ -1,4 +1,5 @@
 sqlite3
+
 .open /home/sfleta/Загрузки/test.db
 .mode csv
 .headers off
