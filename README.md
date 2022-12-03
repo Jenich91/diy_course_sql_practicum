@@ -1,3 +1,5 @@
+for import value from csv, write on the command line:
+
 sqlite3
 
 .open /home/sfleta/Загрузки/test.db
