@@ -2,7 +2,7 @@ for import value from csv, write on the command line:
 
 sqlite3
 
-.open !<path to db file>!/test.db
+.open path_to_db_file/test.db
 
 .mode csv
 
