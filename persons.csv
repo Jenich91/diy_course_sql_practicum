@@ -1,4 +1,3 @@
-person_id, first_name, last_name, role, adress_id, gender
 1,София,Гордеева,student,1,female
 2,Василий,Новиков,student,2,male
 3,Тимофей,Парфенов,student,3,male

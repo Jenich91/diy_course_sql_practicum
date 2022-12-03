@@ -1,4 +1,3 @@
-adress_id, country, city, street, house
 1,Россия,Шатура,ул. Балканская,78
 2,Россия,Можайск,шоссе Гагарина,21
 3,Россия,Ногинск,пл. Ладыгина,29
@@ -16,8 +15,8 @@ adress_id, country, city, street, house
 15,Сербия,Лесковац,Николе Тесле,83
 16,Сербия,Панчево,Михајла Пупина,53
 17,Сербия,Сомбор,Булевар Николе Пашића,45
-18,USA,Lake Ernestview,Schowalter Pines ,78254
-19,USA,South Cyrusfurt,Sean Crossing Apt. 010,19112
+18,USA,Lake Ernestview,Schowalter Pines ,78
+19,USA,South Cyrusfurt,Sean Crossing,19
 20,USA,Wendybury,Mante Drives,740
 21,USA,West Effieville,Legros Ridges,171
 22,USA,East Silashaven,Lubowitz Prairie,793
