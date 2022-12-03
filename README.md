@@ -2,7 +2,7 @@ for import value from csv, write on the command line:
 
 sqlite3
 
-.open /home/sfleta/Загрузки/test.db
+.open !<path to db file>!/test.db
 
 .mode csv
 
