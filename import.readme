@@ -2,7 +2,7 @@ for import value from csv, write on the command line:
 
 sqlite3
 
-.open path_to_db_file/test.db
+.open /home/sfleta/DataGripProjects/sql_diy_course/test.db
 
 .mode csv
 
